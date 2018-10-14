@@ -1,0 +1,24 @@
+{
+  "name": "promise-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3.case.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhufengzhufeng/promise-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhufengzhufeng/promise-public/issues"
+  },
+  "homepage": "https://github.com/zhufengzhufeng/promise-public#readme",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "co": "^4.6.0"
+  }
+}
